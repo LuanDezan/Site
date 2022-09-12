@@ -11,11 +11,18 @@ header h1{
 article{
     height: 700px; width: 100%;
     background-color: darkred;
+    text-align: center;
+}
+article h1{
+    font-size: 25px;
+    color:azure;
 }
 footer{
     height:130px; width: 100%;
     background-color: silver;
     bottom: 0;
+    font-size: 25px;
+    text-align: center;
 }
 .menu{
     width: 100%;
@@ -35,6 +42,7 @@ footer{
 .menu ul li a{
     color:rgb(255, 255, 255);
     text-decoration: none;
+    font-size: 25px;
     padding: 20px;
     display: inline-block;
     transition: background .4s;
@@ -48,10 +56,12 @@ footer img{
 }
 article iframe{
 margin-top: 100px;
-margin-left: 550px;
 }
 body{
     background-color: black;
+}
+.jogos{
+    margin-left: 225px;
 }
 .jogos img{
     height: 360px; width: 360px;
