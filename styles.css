@@ -3,10 +3,11 @@
 }
 header h1{
     color: brown;
-    height: 200px;
     background-color: rgb(75,75,75);
     text-align: center;
     font-size:90px;
+    padding: 20px;
+    
 }
 article{
     height: 800px; width: 100%;
